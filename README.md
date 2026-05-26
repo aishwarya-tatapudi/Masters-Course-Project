@@ -102,4 +102,4 @@ NOTES
 - Random seed fixed (42) for reproducibility
 
 ------------------------------------------------------------
-Copyright (c) 2026 [Aishwarya Anand Tatapudi]. All rights reserved. No commercial or non-commercial use, reproduction, or distribution of this code and material is permitted without explicit written permission.
+Copyright (c) 2026 Aishwarya Anand Tatapudi. All rights reserved. No commercial or non-commercial use, reproduction, or distribution of this code and material is permitted without explicit written permission.
