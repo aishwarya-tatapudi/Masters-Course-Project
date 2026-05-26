@@ -27,7 +27,7 @@ Pipeline 2:
 FILES INCLUDED
 ------------------------------------------------------------
 
-Exp․py
+pipeline1.py
 Pipeline 1 (Hindi + Hinglish)
 - Loads dataset
 - Trains MiniLM + SVM
@@ -35,7 +35,7 @@ Pipeline 1 (Hindi + Hinglish)
 - Performs fairness analysis
 - Generates five-tier scoring
 
-final_exp_pipline2․py
+pipline2․py
 Pipeline 2 (English)
 - Loads SPML dataset
 - Trains MiniLM + SVM
