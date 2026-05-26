@@ -27,16 +27,14 @@ Pipeline 2:
 FILES INCLUDED
 ------------------------------------------------------------
 
-pipeline1.py
-Pipeline 1 (Hindi + Hinglish)
+pipeline1.py (Hindi + Hinglish)
 - Loads dataset
 - Trains MiniLM + SVM
 - Applies rule layer
 - Performs fairness analysis
 - Generates five-tier scoring
 
-pipline2․py
-Pipeline 2 (English)
+pipline2․py (English)
 - Loads SPML dataset
 - Trains MiniLM + SVM
 - Runs a zero-shot NLI comparison․
