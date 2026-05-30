@@ -1,7 +1,7 @@
 Prompt Injection Detection Project
 =================================
 
-Author: Aishwarya
+Author: Aishwarya Anand Tatapudi
 Course: MSCS Course Project
 University of Colorado Denver
 Date: May 2026
