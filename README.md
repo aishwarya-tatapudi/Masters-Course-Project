@@ -1,3 +1,5 @@
+Copyright (c) 2026 Aishwarya Anand Tatapudi. All rights reserved. No commercial or non-commercial use, reproduction, or distribution of this code and material is permitted without explicit written permission.
+
 Prompt Injection Detection Project
 =================================
 
@@ -5,7 +7,7 @@ Author: Aishwarya Anand Tatapudi
 Course: MSCS Course Project
 University of Colorado Denver
 Date: May 2026
-
+📄 Full thesis report available upon request — aishanand1999@gmail.com or https://www.linkedin.com/in/aishwarya-anand-tatapudi-96b530267/
 ------------------------------------------------------------
 PROJECT OVERVIEW
 ------------------------------------------------------------
